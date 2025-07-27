@@ -10,8 +10,36 @@ var bubble_cat = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    223.75,
-                    -104
+                    147.5,
+                    -98
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "02",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.5,
+                    -77.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "03",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94,
+                    -234.5
                 ]
             }
         }
