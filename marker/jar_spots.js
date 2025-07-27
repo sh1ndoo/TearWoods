@@ -490,6 +490,90 @@ var jar_spots = {
                     -63.25
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "36",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.5,
+                    -231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "39",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    193.0625,
+                    -124.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "40",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    191.25,
+                    -128.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "41",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    195.75,
+                    -130.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "38",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96,
+                    -82.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "37",
+                "description": "."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.5,
+                    -104.75
+                ]
+            }
         }
     ]
 }
