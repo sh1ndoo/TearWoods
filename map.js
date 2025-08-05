@@ -49,6 +49,7 @@ addJarSpots(interactive_map);
 addBubbleCat(interactive_map);
 addCameraSpots(interactive_map);
 addMist(interactive_map);
+addBells(interactive_map);
 
 
 
